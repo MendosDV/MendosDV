@@ -32,4 +32,4 @@ Si vous souhaitez discuter de collaborations, de projets passionnants ou simplem
 ## 🌐 Liens utiles 🔗
 
 - [Portfolio]
-- [Profil LinkedIn](www.linkedin.com/in/mickaël-riss)
+- www.linkedin.com/in/mickaël-riss
