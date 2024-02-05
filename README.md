@@ -22,7 +22,7 @@ Actuellement en mission freelance, je suis également à la recherche active d'o
 ### Frameworks :
 - Ruby on Rails 
 - React
-- Next
+- Vue
 - Tailwind / Bootstrap
 
 ## 📫 Comment me contacter ? 📧
